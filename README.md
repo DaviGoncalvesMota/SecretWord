@@ -26,7 +26,7 @@ O **Secret-Word** é um jogo divertido onde o jogador precisa adivinhar uma pala
 git clone https://github.com/DaviGoncalvesMota/Secret-Word.git
 
 # Acesse a pasta do projeto
-cd Secret-Word
+cd SecretWord
 
 # Instale as dependências
 npm install
